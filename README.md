@@ -11,4 +11,6 @@
 </div>
 
 [Добавлениее счётчика просмотров профиля]:#
-<img src="https://komarev.com/ghpvc/?username=terriorra&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=terriorra&style=flat-square&color=blue" alt=""/>
+</div>
