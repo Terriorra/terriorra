@@ -11,6 +11,15 @@
 </div>
 
 [Добавлениее счётчика просмотров профиля]:#
-<div id="badges" align="center">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=terriorra&style=flat-square&color=blue" alt=""/>
+</div>
+
+[Основная информационная часть.]:#
+[Просто приветствие]:#
+<div align="center">
+    <h1>
+        hey there
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
 </div>
